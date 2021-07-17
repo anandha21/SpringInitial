@@ -1,0 +1,8 @@
+/bin/
+/.classpath
+/.gitignore
+/.project
+/applicationContext.xml
+/beanLifeCycle-applicationContext.xml
+/beanScope-applicationContext.xml
+/sport.properties
